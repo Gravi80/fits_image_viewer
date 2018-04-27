@@ -1,4 +1,3 @@
-# flask_demo
 Reading FITS image file
 
 # Start FTP server
