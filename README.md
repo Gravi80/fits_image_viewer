@@ -1,4 +1,4 @@
-Reading FITS image file
+Displaying FITS image on browser
 
 # Start FTP server
 python ftp_server.py
