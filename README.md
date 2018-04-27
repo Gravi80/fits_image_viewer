@@ -1,7 +1,7 @@
 Displaying FITS image on browser
 
 # Start FTP server
-python ftp_server.py
+python fits_files/ftp_server.py
 
 # Start Application server
 python app.py
